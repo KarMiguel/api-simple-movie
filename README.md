@@ -31,6 +31,18 @@
 $ npm install
 ```
 
+## Database postgresql
+
+```bash
+Tem que criar banco de dados postgresql como nome de 'movies'
+```
+
+## Documentação Swagger
+
+```bash
+$ http://localhost:3000/api
+```
+
 ## Compile and run the project
 
 ```bash
